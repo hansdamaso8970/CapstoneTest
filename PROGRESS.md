@@ -50,7 +50,7 @@ Frontend-only by design at this stage:
 4. Wire `app.js` to the real API — replace `ASSETS`/`USERS`/`ACTIVITY` reads with `fetch()` calls, keep the render functions themselves mostly unchanged since they already take shaped data.
 5. Connect the ESP32 + PN532 reader — define the event payload it pushes on a scan, replace the Scan Tag dropdown simulation with a live listener (WebSocket or short-poll).
 6. Add auth (login screen + session) and gate views by role (Admin / Warehouse Staff / Faculty Requester), matching the permission cards already drafted on the Admin page.
-
+7. ~~Created Sample FrontEnd for the inspo of the software of the system~~ **done** - newly added
 ## Working conventions
 
 - Keep `css/`, `js/` separated from `index.html` — matches the MultiFile pattern used on other coursework (see Waypoint's PROGRESS.md for the same convention).
