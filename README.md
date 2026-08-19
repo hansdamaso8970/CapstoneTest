@@ -3,3 +3,5 @@ PLEASE ALWAYS UPDATE THE PROGRESS.MD TO KNOW THE STATUS AND PROGRESS OF THE CAPS
 
 ### Install C# Dev kit from VS Code. (IMPORTANT)
 ### Install PlatformIO IDE from VS Code. (IMPORTANT)
+### Install SDK .Net 10. (IMPORTANT)
+
